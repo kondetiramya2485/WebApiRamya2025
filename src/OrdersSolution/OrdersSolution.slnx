@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="OrdersSolution/Orders.Api.csproj" />
+  <Project Path="AppHost/AppHost.csproj" Id="174b8406-656c-4db7-98f2-792b2e11fd14" />
+  <Project Path="Orders.Api/Orders.Api.csproj" />
+  <Project Path="OrderServiceDefaults/OrderServiceDefaults.csproj" Id="3bc0a655-505e-48ed-bce5-48f5a98fd11a" />
 </Solution>

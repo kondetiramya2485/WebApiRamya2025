@@ -29,7 +29,7 @@ namespace Orders.Api.Endpoints.Orders
                     var order = new Order
                     {
                         Id = Guid.NewGuid(),
-                        TotalOrderIeee754Comparer = 300
+                        TotalOrders = 300
                     };
                     return TypedResults.Ok(order);
                 });
